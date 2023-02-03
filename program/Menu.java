@@ -1,4 +1,4 @@
-package sesi14.com;
+package program;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
